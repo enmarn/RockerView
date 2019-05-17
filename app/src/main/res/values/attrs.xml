@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RockerView">
+        <attr name="back_clrcle_radius"/>
+        <attr name="center_circle_radius"/>
+    </declare-styleable>
+</resources>
